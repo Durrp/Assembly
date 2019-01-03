@@ -6,7 +6,7 @@ http://techapple.net/2013/01/tasm-windows-7-windows-8-full-screen-64bit-version-
 
 After the program the program is opened DOS screen will pop-up, make sure you are in the same directory where you stored the source files in. (Usually in C:\Tasm 1.4\Tasm )
 
-To properly execute our assembly programs we need to compile and link our code.
+To properly execute the assembly programs it is necessary to compile and link the source files.
 
 Compile : tasm “filename.asm” [no quotes]
 
