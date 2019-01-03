@@ -1,5 +1,6 @@
 ; toy.asm
 ; Author: Nathan Acosta
+; A programs that simulates a marble board game. The objective is to fill all the holes (0) with marbles (1)
 
 	.MODEL small
 
